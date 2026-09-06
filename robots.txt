@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://jarrad-smith.federal-bureau-of-investigation.com/sitemap-index.xml
